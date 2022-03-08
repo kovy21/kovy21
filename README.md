@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kovy21
+- 👀 I’m interested in (scalable) data processing and data science use cases in areas of business and economics (using R, SQL and Python)
+- 🌱 I’m currently learning about CRISP-DM and Recommender Systems in R and Python
+- 💞️ I’m looking to collaborate on any data science projects using R, SQL or Python
+- 📫 I'm reachable by direct message, as well as by email at peter.kovacko@gmail.com
