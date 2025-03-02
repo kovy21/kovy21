@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @kovy21, a student focusing on Data Science at WU Vienna
-- 👀 I’m interested in (scalable) data processing and data science use cases in areas of business and economics (using R, SQL and Python)
-- 🌱 I’m currently learning about CRISP-DM and Recommender Systems in R and Python
-- 💞️ I’m looking to collaborate on any data science projects using R, SQL or Python
-- 📫 I'm reachable by direct message, as well as by email at peter.kovac@s.wu.ac.at
+Reachable by direct message, as well as by email at peter.kovac@s.wu.ac.at
